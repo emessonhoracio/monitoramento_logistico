@@ -4,10 +4,19 @@ DROP TABLE IF EXISTS entregas CASCADE;
 DROP TABLE IF EXISTS motoristas CASCADE;
 DROP TABLE IF EXISTS veiculos CASCADE;
 DROP TABLE IF EXISTS regioes CASCADE;
+DROP TABLE IF EXISTS clientes CASCADE;
 
 CREATE TABLE regioes (
     id BIGSERIAL PRIMARY KEY,
     nome VARCHAR(100) NOT NULL UNIQUE
+);
+
+CREATE TABLE clientes (
+    id BIGSERIAL PRIMARY KEY,
+    nome VARCHAR(150) NOT NULL,
+    cnpj VARCHAR(18) NOT NULL UNIQUE,
+    regiao_id BIGINT NOT NULL REFERENCES regioes(id),
+    ativo BOOLEAN NOT NULL DEFAULT TRUE
 );
 
 CREATE TABLE motoristas (
@@ -40,10 +49,6 @@ CREATE TABLE entregas (
     custo_entrega NUMERIC(10,2) NOT NULL CHECK (custo_entrega >= 0),
     quantidade_itens INTEGER NOT NULL CHECK (quantidade_itens > 0),
     peso_carga_kg NUMERIC(10,2) NOT NULL CHECK (peso_carga_kg > 0),
-
-    status_entrega VARCHAR(20) NOT NULL CHECK (
-        status_entrega IN ('ENTREGUE_NO_PRAZO', 'ENTREGUE_COM_ATRASO')
-    )
 );
 
 CREATE INDEX idx_entregas_data_pedido ON entregas(data_pedido);
@@ -51,5 +56,8 @@ CREATE INDEX idx_entregas_data_entrega ON entregas(data_entrega);
 CREATE INDEX idx_entregas_regiao_id ON entregas(regiao_id);
 CREATE INDEX idx_entregas_motorista_id ON entregas(motorista_id);
 CREATE INDEX idx_entregas_veiculo_id ON entregas(veiculo_id);
+CREATE INDEX idx_clientes_nome ON clientes(nome);
+CREATE INDEX idx_clientes_cnpj ON clientes(cnpj);
+CREATE INDEX idx_clientes_regiao_id ON clientes(regiao_id);
 
 COMMIT;
