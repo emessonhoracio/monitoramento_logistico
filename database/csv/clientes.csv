@@ -1,31 +1,31 @@
-nome,cnpj,regiao_id,ativo
-Alagoas Tech Soluções Ltda,12.345.678/0001-01,1,True
-Nordeste Distribuidora de Alimentos Ltda,12.345.678/0001-02,2,True
-Maceió Serviços Administrativos Ltda,12.345.678/0001-03,3,True
-Atlântico Comércio de Bebidas Ltda,12.345.678/0001-04,4,True
-Sertão Agropecuária Ltda,12.345.678/0001-05,5,True
-Costa Dourada Turismo Ltda,12.345.678/0001-06,6,True
-Brasil Nordeste Logística Ltda,12.345.678/0001-07,7,True
-Alpha Sistemas Empresariais Ltda,12.345.678/0001-08,8,True
-Beta Engenharia e Construções Ltda,12.345.678/0001-09,9,True
-Gamma Tecnologia da Informação Ltda,12.345.678/0001-10,10,True
-Delta Serviços Financeiros Ltda,12.345.678/0001-11,11,True
-Epsilon Consultoria Empresarial Ltda,12.345.678/0001-12,12,True
-Zeta Transportes e Logística Ltda,12.345.678/0001-13,13,True
-Eta Comércio Varejista Ltda,12.345.678/0001-14,14,True
-Theta Indústria de Alimentos Ltda,12.345.678/0001-15,15,True
-Iota Distribuidora Farmacêutica Ltda,12.345.678/0001-16,16,True
-Kappa Soluções Digitais Ltda,12.345.678/0001-17,17,True
-Lambda Marketing e Publicidade Ltda,12.345.678/0001-18,18,True
-Sigma Equipamentos Industriais Ltda,12.345.678/0001-19,19,True
-Omega Energia Sustentável Ltda,12.345.678/0001-20,20,True
-Sol Nascente Construções Ltda,12.345.678/0001-21,21,True
-Lua Cheia Eventos Ltda,12.345.678/0001-22,22,True
-Mar Azul Pescados Ltda,12.345.678/0001-23,23,True
-Vento Forte Energia Ltda,12.345.678/0001-24,24,True
-Raiz Verde Agricultura Ltda,12.345.678/0001-25,25,True
-Horizonte Logística Integrada Ltda,12.345.678/0001-26,26,True
-Ponto Certo Comércio Ltda,12.345.678/0001-27,27,True
-Via Rápida Transportes Ltda,12.345.678/0001-28,28,True
-Rede Forte Supermercados Ltda,12.345.678/0001-29,29,True
-Casa Nova Materiais de Construção Ltda,12.345.678/0001-30,30,True
+nome,cnpj,regiao,ativo
+Alagoas Tech Soluções Ltda,12.345.678/0001-01,Água Branca,True
+Nordeste Distribuidora de Alimentos Ltda,12.345.678/0001-02,Anadia,True
+Maceió Serviços Administrativos Ltda,12.345.678/0001-03,Arapiraca,True
+Atlântico Comércio de Bebidas Ltda,12.345.678/0001-04,Atalaia,True
+Sertão Agropecuária Ltda,12.345.678/0001-05,Barra de Santo Antônio,True
+Costa Dourada Turismo Ltda,12.345.678/0001-06,Barra de São Miguel,True
+Brasil Nordeste Logística Ltda,12.345.678/0001-07,Batalha,True
+Alpha Sistemas Empresariais Ltda,12.345.678/0001-08,Belém,True
+Beta Engenharia e Construções Ltda,12.345.678/0001-09,Belo Monte,True
+Gamma Tecnologia da Informação Ltda,12.345.678/0001-10,Boca da Mata,True
+Delta Serviços Financeiros Ltda,12.345.678/0001-11,Branquinha,True
+Epsilon Consultoria Empresarial Ltda,12.345.678/0001-12,Cacimbinhas,True
+Zeta Transportes e Logística Ltda,12.345.678/0001-13,Cajueiro,True
+Eta Comércio Varejista Ltda,12.345.678/0001-14,Campestre,True
+Theta Indústria de Alimentos Ltda,12.345.678/0001-15,Campo Alegre,True
+Iota Distribuidora Farmacêutica Ltda,12.345.678/0001-16,Campo Grande,True
+Kappa Soluções Digitais Ltda,12.345.678/0001-17,Canapi,True
+Lambda Marketing e Publicidade Ltda,12.345.678/0001-18,Capela,True
+Sigma Equipamentos Industriais Ltda,12.345.678/0001-19,Carneiros,True
+Omega Energia Sustentável Ltda,12.345.678/0001-20,Chã Preta,True
+Sol Nascente Construções Ltda,12.345.678/0001-21,Coité do Nóia,True
+Lua Cheia Eventos Ltda,12.345.678/0001-22,Colônia Leopoldina,True
+Mar Azul Pescados Ltda,12.345.678/0001-23,Coqueiro Seco,True
+Vento Forte Energia Ltda,12.345.678/0001-24,Coruripe,True
+Raiz Verde Agricultura Ltda,12.345.678/0001-25,Craíbas,True
+Horizonte Logística Integrada Ltda,12.345.678/0001-26,Delmiro Gouveia,True
+Ponto Certo Comércio Ltda,12.345.678/0001-27,Dois Riachos,True
+Via Rápida Transportes Ltda,12.345.678/0001-28,Estrela de Alagoas,True
+Rede Forte Supermercados Ltda,12.345.678/0001-29,Feira Grande,True
+Casa Nova Materiais de Construção Ltda,12.345.678/0001-30,Feliz Deserto,True
