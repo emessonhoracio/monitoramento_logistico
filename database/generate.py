@@ -169,24 +169,54 @@ veiculos = [
     ("QXT2T23", "Volkswagen Amarok", 1150.00)
 ]
 
-"""
-    id BIGSERIAL PRIMARY KEY, OK
-    pedido_codigo VARCHAR(30) NOT NULL UNIQUE, ALEATORIO
-    regiao_id BIGINT NOT NULL REFERENCES regioes(id), OK
-    motorista_id BIGINT NOT NULL REFERENCES motoristas(id), OK
-    veiculo_id BIGINT NOT NULL REFERENCES veiculos(id), OK
 
-    data_pedido TIMESTAMP NOT NULL, ALEATORIA
-    data_saida TIMESTAMP NOT NULL, ALEATORIA
-    prazo_entrega TIMESTAMP NOT NULL, ALEATORIO
-    data_entrega TIMESTAMP NOT NULL, ALEATORIO
+# I want to generate .csv files for each of bases table (regioes, clientes, motoristas, veiculos)
+import csv
+from pathlib import Path
 
-    km_rodado NUMERIC(10,2) NOT NULL CHECK (km_rodado >= 0), ALGORITMO
-    custo_entrega NUMERIC(10,2) NOT NULL CHECK (custo_entrega >= 0), ALGORITMO
-    quantidade_itens INTEGER NOT NULL CHECK (quantidade_itens > 0), ALEATORIO
-    peso_carga_kg NUMERIC(10,2) NOT NULL CHECK (peso_carga_kg > 0), ALEATORIO
+def salvar_csv(caminho_arquivo, cabecalho, linhas):
+    with open(caminho_arquivo, "w", newline="", encoding="utf-8") as arquivo:
+        writer = csv.writer(arquivo)
+        writer.writerow(cabecalho)
+        writer.writerows(linhas)
 
-    status_entrega VARCHAR(20) NOT NULL CHECK (
-        status_entrega IN ('ENTREGUE_NO_PRAZO', 'ENTREGUE_COM_ATRASO') OK
+def main():
+    pasta_saida = Path("csv")
+    pasta_saida.mkdir(exist_ok=True)
+
+    # regioes.csv
+    regioes_linhas = [(cidade,) for cidade in cidades_alagoas]
+    salvar_csv(
+        pasta_saida / "regioes.csv",
+        ["nome"],
+        regioes_linhas
     )
-"""
+
+    # clientes.csv
+    salvar_csv(
+        pasta_saida / "clientes.csv",
+        ["nome", "cnpj", "regiao_id", "ativo"],
+        clientes
+    )
+
+    # motoristas.csv
+    motoristas_linhas = [(nome, True) for nome in funcionarios]
+    salvar_csv(
+        pasta_saida / "motoristas.csv",
+        ["nome", "ativo"],
+        motoristas_linhas
+    )
+
+    # veiculos.csv
+    veiculos_linhas = [(placa, modelo, capacidade_kg, True) for placa, modelo, capacidade_kg in veiculos]
+    salvar_csv(
+        pasta_saida / "veiculos.csv",
+        ["placa", "modelo", "capacidade_kg", "ativo"],
+        veiculos_linhas
+    )
+
+    print("Arquivos CSV gerados com sucesso em:", pasta_saida.resolve())
+
+
+if __name__ == "__main__":
+    main()
