@@ -1,0 +1,10 @@
+services:
+  database:
+    image: postgres:18.3
+    container_name: sige-db
+    environment:
+      POSTGRES_DB: sige
+      POSTGRES_USER: sige
+      POSTGRES_PASSWORD: sige
+    ports:
+      - "5433:5432"
