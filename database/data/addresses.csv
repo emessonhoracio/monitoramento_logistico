@@ -1,0 +1,301 @@
+﻿id,rua,cidade,estado,numero
+1,Viela Nathan Siqueira,Maceió,Alagoas,6414
+2,Rua José Pedro Cassiano,Pilar,Alagoas,1339
+3,Praia Ana Laura Cavalcanti,Marechal Deodoro,Alagoas,97
+4,Vale Campos,Maceió,Alagoas,6009
+5,Colônia de Barbosa,Santana do Ipanema,Alagoas,4684
+6,Fazenda Lopes,Porto Calvo,Alagoas,6628
+7,Feira Davi Lucas Cavalcante,Atalaia,Alagoas,7875
+8,Sítio da Rosa,Porto Calvo,Alagoas,4021
+9,Trecho Fernandes,Delmiro Gouveia,Alagoas,3832
+10,Jardim de Vieira,Porto Calvo,Alagoas,6155
+11,Loteamento Gael Henrique Almeida,União dos Palmares,Alagoas,4369
+12,Rodovia Carvalho,Arapiraca,Alagoas,5946
+13,Quadra Ramos,Maceió,Alagoas,1214
+14,Praia Zoe Pastor,Delmiro Gouveia,Alagoas,2843
+15,Sítio da Mata,Porto Calvo,Alagoas,2917
+16,Jardim de Barros,Atalaia,Alagoas,813
+17,Estação da Mota,Palmeira dos Índios,Alagoas,4980
+18,Lagoa de Santos,Maragogi,Alagoas,6463
+19,Viela de Albuquerque,União dos Palmares,Alagoas,1854
+20,Praça Correia,Porto Calvo,Alagoas,3305
+21,Passarela Freitas,Porto Calvo,Alagoas,5740
+22,Recanto Ian Novais,Marechal Deodoro,Alagoas,9569
+23,Lago Barros,São Miguel dos Campos,Alagoas,6017
+24,Rodovia de Silveira,Pilar,Alagoas,7041
+25,Largo de Cirino,Marechal Deodoro,Alagoas,9741
+26,Distrito Pereira,Atalaia,Alagoas,270
+27,Distrito de Farias,Palmeira dos Índios,Alagoas,8544
+28,Aeroporto Moura,Santana do Ipanema,Alagoas,753
+29,Estação Andrade,Rio Largo,Alagoas,3835
+30,Trevo Borges,Maragogi,Alagoas,5827
+31,Condomínio Maysa Novais,Arapiraca,Alagoas,3558
+32,Favela Casa Grande,Penedo,Alagoas,7877
+33,Largo Alves,São Miguel dos Campos,Alagoas,5420
+34,Loteamento de Caldeira,Maragogi,Alagoas,1268
+35,Esplanada de Casa Grande,Penedo,Alagoas,270
+36,Avenida de Pires,São Miguel dos Campos,Alagoas,5798
+37,Pátio Leão,Atalaia,Alagoas,6120
+38,Viela de Nascimento,Maceió,Alagoas,7625
+39,Trecho Brito,Rio Largo,Alagoas,4249
+40,Feira de Almeida,Palmeira dos Índios,Alagoas,7641
+41,Esplanada de Araújo,São Miguel dos Campos,Alagoas,8998
+42,Condomínio Hadassa Rodrigues,Delmiro Gouveia,Alagoas,7774
+43,Loteamento Fonseca,Atalaia,Alagoas,1199
+44,Largo Rodrigues,São Miguel dos Campos,Alagoas,3306
+45,Vila Luigi Ribeiro,Delmiro Gouveia,Alagoas,7166
+46,Setor de Duarte,Arapiraca,Alagoas,2620
+47,Lagoa Caroline Ramos,Maceió,Alagoas,5581
+48,Conjunto de Moraes,Maragogi,Alagoas,8838
+49,Alameda de Silveira,Maceió,Alagoas,7736
+50,Via Breno Monteiro,Palmeira dos Índios,Alagoas,9317
+51,Estrada Enzo Ferreira,Arapiraca,Alagoas,8836
+52,Pátio de Pastor,Atalaia,Alagoas,1978
+53,Recanto Bruna Fernandes,Porto Calvo,Alagoas,7253
+54,Colônia de da Luz,Penedo,Alagoas,112
+55,Favela Antony Fonseca,São Miguel dos Campos,Alagoas,6230
+56,Núcleo Vasconcelos,Marechal Deodoro,Alagoas,6552
+57,Conjunto Fogaça,Porto Calvo,Alagoas,501
+58,Área Zoe Nascimento,Atalaia,Alagoas,8824
+59,Setor Gabriel Mendes,Coruripe,Alagoas,4571
+60,Jardim de Casa Grande,Coruripe,Alagoas,332
+61,Distrito de Caldeira,Penedo,Alagoas,2971
+62,Morro Vasconcelos,Maragogi,Alagoas,4485
+63,Distrito de Camargo,Pilar,Alagoas,4817
+64,Conjunto Peixoto,Maragogi,Alagoas,1954
+65,Favela Montenegro,Marechal Deodoro,Alagoas,2300
+66,Distrito Sá,Maragogi,Alagoas,9557
+67,Recanto Vargas,São Miguel dos Campos,Alagoas,5784
+68,Avenida Bárbara Farias,Atalaia,Alagoas,229
+69,Setor Davi Luiz Andrade,Coruripe,Alagoas,6252
+70,Feira de Ferreira,São Miguel dos Campos,Alagoas,1148
+71,Praça Léo Monteiro,Maragogi,Alagoas,6765
+72,Lagoa João Fernandes,Rio Largo,Alagoas,4510
+73,Largo de Cavalcanti,União dos Palmares,Alagoas,3929
+74,Passarela Daniela Brito,Porto Calvo,Alagoas,5037
+75,Distrito de Correia,Arapiraca,Alagoas,585
+76,Pátio Lima,Porto Calvo,Alagoas,8487
+77,Vale Duarte,Marechal Deodoro,Alagoas,8471
+78,Trecho Maria Pires,Penedo,Alagoas,7440
+79,Rodovia de da Conceição,Coruripe,Alagoas,8587
+80,Morro Garcia,Rio Largo,Alagoas,8282
+81,Conjunto Clarice Mendes,Rio Largo,Alagoas,5612
+82,Parque José Miguel Vieira,Porto Calvo,Alagoas,6982
+83,Quadra Mirella Dias,Porto Calvo,Alagoas,6362
+84,Lago Nunes,Palmeira dos Índios,Alagoas,5249
+85,Praça de Abreu,Porto Calvo,Alagoas,5038
+86,Vila Léo Pimenta,União dos Palmares,Alagoas,5119
+87,Morro Moura,Marechal Deodoro,Alagoas,1305
+88,Ladeira Dom Brito,Maragogi,Alagoas,5775
+89,Trevo Lunna Borges,Marechal Deodoro,Alagoas,5047
+90,Campo Porto,União dos Palmares,Alagoas,2391
+91,Rodovia Luiz Henrique Araújo,São Miguel dos Campos,Alagoas,8081
+92,Jardim Eloah Fogaça,Rio Largo,Alagoas,4439
+93,Pátio Enzo Gabriel Montenegro,União dos Palmares,Alagoas,9673
+94,Conjunto Casa Grande,Atalaia,Alagoas,8533
+95,Jardim Camargo,Arapiraca,Alagoas,6281
+96,Trecho Vargas,Marechal Deodoro,Alagoas,7642
+97,Campo de Melo,Porto Calvo,Alagoas,4236
+98,Aeroporto das Neves,Maceió,Alagoas,7168
+99,Morro Almeida,Atalaia,Alagoas,3108
+100,Travessa de Pacheco,Arapiraca,Alagoas,9851
+101,Condomínio Felipe Nogueira,Rio Largo,Alagoas,6452
+102,Travessa de Porto,Rio Largo,Alagoas,5952
+103,Vereda da Costa,Delmiro Gouveia,Alagoas,1029
+104,Núcleo Santos,Maceió,Alagoas,4840
+105,Viela de Nunes,Marechal Deodoro,Alagoas,3596
+106,Chácara de Cavalcante,Penedo,Alagoas,9462
+107,Campo Cavalcanti,Arapiraca,Alagoas,9053
+108,Conjunto de Brito,Atalaia,Alagoas,792
+109,Condomínio Ravy Correia,Maragogi,Alagoas,7511
+110,Recanto Abreu,Delmiro Gouveia,Alagoas,2564
+111,Vereda Rezende,Coruripe,Alagoas,5767
+112,Lago Davi Lucca da Cruz,Delmiro Gouveia,Alagoas,6639
+113,Distrito Santos,Atalaia,Alagoas,5695
+114,Chácara de Rocha,Atalaia,Alagoas,4490
+115,Quadra de Vargas,União dos Palmares,Alagoas,6125
+116,Estação Isabel Siqueira,São Miguel dos Campos,Alagoas,7267
+117,Viaduto Sampaio,Atalaia,Alagoas,7067
+118,Esplanada Pedro Miguel Rezende,Coruripe,Alagoas,6883
+119,Chácara de Andrade,São Miguel dos Campos,Alagoas,4289
+120,Passarela Cecilia Machado,Palmeira dos Índios,Alagoas,7569
+121,Chácara de da Rocha,Penedo,Alagoas,4014
+122,Alameda Laís Sampaio,Santana do Ipanema,Alagoas,8560
+123,Loteamento de Brito,Penedo,Alagoas,6332
+124,Viela Laura Dias,Maceió,Alagoas,2447
+125,Alameda Rhavi Rezende,Porto Calvo,Alagoas,1976
+126,Trecho de Pinto,Coruripe,Alagoas,8898
+127,Avenida Gonçalves,Marechal Deodoro,Alagoas,5132
+128,Vale Pimenta,Delmiro Gouveia,Alagoas,9933
+129,Recanto de Martins,Coruripe,Alagoas,7770
+130,Vale Manuela Viana,Pilar,Alagoas,796
+131,Lago Câmara,Penedo,Alagoas,5778
+132,Favela Sampaio,Penedo,Alagoas,9676
+133,Via Juan Campos,Delmiro Gouveia,Alagoas,7847
+134,Viaduto Gabrielly Almeida,Maragogi,Alagoas,5357
+135,Vereda Vargas,Palmeira dos Índios,Alagoas,8535
+136,Sítio de Abreu,Pilar,Alagoas,7797
+137,Conjunto de Costela,Arapiraca,Alagoas,565
+138,Pátio Souza,Arapiraca,Alagoas,3322
+139,Praia de Costela,Atalaia,Alagoas,1337
+140,Ladeira de Gomes,Penedo,Alagoas,6447
+141,Praça Pimenta,Rio Largo,Alagoas,4378
+142,Loteamento Davi Lucas da Costa,Coruripe,Alagoas,3499
+143,Distrito da Rocha,São Miguel dos Campos,Alagoas,3355
+144,Quadra de Costa,São Miguel dos Campos,Alagoas,1048
+145,Lagoa Melina Garcia,União dos Palmares,Alagoas,3370
+146,Residencial de Santos,União dos Palmares,Alagoas,7724
+147,Pátio Antonella Carvalho,Palmeira dos Índios,Alagoas,4364
+148,Recanto de Sales,Pilar,Alagoas,9050
+149,Vereda de Montenegro,Penedo,Alagoas,5088
+150,Alameda Antonella Cunha,Pilar,Alagoas,936
+151,Fazenda de Peixoto,Palmeira dos Índios,Alagoas,6228
+152,Passarela Moraes,Palmeira dos Índios,Alagoas,2610
+153,Vila Olívia Pires,União dos Palmares,Alagoas,9352
+154,Morro Liz Abreu,Penedo,Alagoas,1129
+155,Favela de Porto,São Miguel dos Campos,Alagoas,1297
+156,Feira de Siqueira,Porto Calvo,Alagoas,2341
+157,Quadra Dias,Marechal Deodoro,Alagoas,394
+158,Recanto da Luz,União dos Palmares,Alagoas,1800
+159,Rodovia de Porto,Palmeira dos Índios,Alagoas,395
+160,Pátio Júlia Aparecida,Marechal Deodoro,Alagoas,3003
+161,Esplanada Helena Montenegro,Atalaia,Alagoas,5040
+162,Passarela Vargas,Coruripe,Alagoas,138
+163,Campo de Vargas,Pilar,Alagoas,6090
+164,Aeroporto de Gomes,Coruripe,Alagoas,2148
+165,Vale Montenegro,União dos Palmares,Alagoas,1244
+166,Vila de Nunes,Porto Calvo,Alagoas,8808
+167,Lago Costela,Rio Largo,Alagoas,8960
+168,Ladeira de Pereira,Arapiraca,Alagoas,7008
+169,Pátio de Camargo,Maragogi,Alagoas,6023
+170,Recanto de Cunha,Atalaia,Alagoas,8662
+171,Rua de Barbosa,Penedo,Alagoas,9601
+172,Residencial Dante Castro,Marechal Deodoro,Alagoas,6514
+173,Residencial de Santos,Penedo,Alagoas,4004
+174,Conjunto Silveira,Pilar,Alagoas,2529
+175,Feira Henry da Mata,Santana do Ipanema,Alagoas,7649
+176,Alameda Peixoto,Coruripe,Alagoas,2201
+177,Via de Guerra,Maceió,Alagoas,85
+178,Vereda Monteiro,São Miguel dos Campos,Alagoas,5743
+179,Vila Ferreira,Penedo,Alagoas,9344
+180,Distrito Nascimento,Maragogi,Alagoas,9472
+181,Sítio Lopes,Porto Calvo,Alagoas,4407
+182,Área Vieira,São Miguel dos Campos,Alagoas,9892
+183,Colônia Peixoto,Delmiro Gouveia,Alagoas,3282
+184,Estrada de Mendes,Maragogi,Alagoas,4351
+185,Praia de Nunes,Santana do Ipanema,Alagoas,1136
+186,Travessa de da Mata,Maceió,Alagoas,8379
+187,Feira de Azevedo,Maceió,Alagoas,2713
+188,Estação Joana Moraes,União dos Palmares,Alagoas,5661
+189,Trevo Laís Nunes,Marechal Deodoro,Alagoas,4596
+190,Travessa de Pires,Coruripe,Alagoas,6368
+191,Loteamento da Mata,Marechal Deodoro,Alagoas,1891
+192,Jardim João Pedro Macedo,Delmiro Gouveia,Alagoas,580
+193,Largo Danilo Nascimento,Porto Calvo,Alagoas,5954
+194,Colônia Silva,Penedo,Alagoas,237
+195,Praia de Silveira,União dos Palmares,Alagoas,8625
+196,Lago de Lopes,Pilar,Alagoas,6073
+197,Favela de Aparecida,Coruripe,Alagoas,413
+198,Residencial Rodrigues,Coruripe,Alagoas,7509
+199,Loteamento Isabella Rezende,Atalaia,Alagoas,3367
+200,Passarela Joana Carvalho,Marechal Deodoro,Alagoas,2035
+201,Área de Almeida,Delmiro Gouveia,Alagoas,8107
+202,Lago de Aparecida,Porto Calvo,Alagoas,7574
+203,Vale de Cardoso,Penedo,Alagoas,2114
+204,Lagoa Manuela Freitas,Coruripe,Alagoas,5870
+205,Viaduto de Silva,Maragogi,Alagoas,8998
+206,Parque Lorenzo Teixeira,Maragogi,Alagoas,7835
+207,Residencial de Pimenta,Palmeira dos Índios,Alagoas,5556
+208,Setor Borges,Porto Calvo,Alagoas,8567
+209,Colônia Novaes,Maragogi,Alagoas,412
+210,Núcleo Andrade,Rio Largo,Alagoas,3429
+211,Fazenda Freitas,Porto Calvo,Alagoas,9005
+212,Largo Lunna Camargo,Palmeira dos Índios,Alagoas,7908
+213,Via de Abreu,Rio Largo,Alagoas,6231
+214,Praia de Souza,Maceió,Alagoas,4379
+215,Alameda da Rosa,Maragogi,Alagoas,570
+216,Fazenda Santos,Porto Calvo,Alagoas,402
+217,Rua de Mendes,Palmeira dos Índios,Alagoas,6044
+218,Trecho Fogaça,Maragogi,Alagoas,6079
+219,Aeroporto de da Mata,União dos Palmares,Alagoas,9539
+220,Largo Vieira,Rio Largo,Alagoas,4519
+221,Ladeira de Casa Grande,Maceió,Alagoas,5578
+222,Viaduto de Brito,Porto Calvo,Alagoas,3401
+223,Passarela de Barbosa,Maragogi,Alagoas,8979
+224,Fazenda Natália Nogueira,Santana do Ipanema,Alagoas,1605
+225,Estrada de Camargo,São Miguel dos Campos,Alagoas,7070
+226,Trecho Gabriel Fonseca,Rio Largo,Alagoas,4279
+227,Trecho João Vitor Borges,Penedo,Alagoas,7432
+228,Largo de Santos,São Miguel dos Campos,Alagoas,8318
+229,Viela Sophie Teixeira,Marechal Deodoro,Alagoas,9073
+230,Vila Rodrigo Barbosa,Delmiro Gouveia,Alagoas,6957
+231,Fazenda de Gonçalves,Maceió,Alagoas,4179
+232,Viaduto de Almeida,Santana do Ipanema,Alagoas,7482
+233,Trecho Gustavo Henrique Araújo,Pilar,Alagoas,3321
+234,Área Mariane Martins,Atalaia,Alagoas,5235
+235,Travessa Moraes,Arapiraca,Alagoas,4655
+236,Feira de Dias,Arapiraca,Alagoas,536
+237,Pátio Oliveira,Arapiraca,Alagoas,2147
+238,Condomínio Pacheco,Coruripe,Alagoas,2253
+239,Setor da Cunha,Rio Largo,Alagoas,9645
+240,Conjunto de Correia,Coruripe,Alagoas,218
+241,Colônia Raul Santos,Pilar,Alagoas,8434
+242,Avenida de Barros,Palmeira dos Índios,Alagoas,9904
+243,Trecho Barbosa,Rio Largo,Alagoas,7119
+244,Fazenda Cauê Nascimento,Porto Calvo,Alagoas,3159
+245,Estação Souza,Coruripe,Alagoas,6024
+246,Passarela Bruno Sampaio,Arapiraca,Alagoas,2628
+247,Campo de Oliveira,Rio Largo,Alagoas,2146
+248,Feira Moreira,Santana do Ipanema,Alagoas,106
+249,Chácara de Pereira,Penedo,Alagoas,6573
+250,Passarela Viana,Maragogi,Alagoas,2049
+251,Residencial Brito,Rio Largo,Alagoas,432
+252,Via de Moura,São Miguel dos Campos,Alagoas,9841
+253,Condomínio de da Costa,Marechal Deodoro,Alagoas,6094
+254,Quadra Peixoto,Santana do Ipanema,Alagoas,4043
+255,Campo de Rios,Santana do Ipanema,Alagoas,1695
+256,Condomínio Anna Liz da Conceição,Porto Calvo,Alagoas,8071
+257,Parque Maria Julia Vieira,União dos Palmares,Alagoas,3732
+258,Loteamento Maria Júlia Camargo,Marechal Deodoro,Alagoas,7565
+259,Pátio Albuquerque,Delmiro Gouveia,Alagoas,8876
+260,Rodovia Fernandes,Penedo,Alagoas,891
+261,Colônia de Cassiano,Maceió,Alagoas,1520
+262,Loteamento Theodoro Martins,São Miguel dos Campos,Alagoas,9940
+263,Trecho Camargo,Palmeira dos Índios,Alagoas,3684
+264,Lagoa Luiz Miguel Campos,Delmiro Gouveia,Alagoas,8250
+265,Fazenda das Neves,Maceió,Alagoas,237
+266,Largo Allana Ribeiro,Palmeira dos Índios,Alagoas,5285
+267,Pátio Ana Sophia das Neves,Maceió,Alagoas,1373
+268,Praça Elisa Cirino,Arapiraca,Alagoas,2232
+269,Trecho Machado,Marechal Deodoro,Alagoas,6021
+270,Praça Nunes,Maceió,Alagoas,2800
+271,Quadra Alves,Arapiraca,Alagoas,5359
+272,Esplanada de Caldeira,Maceió,Alagoas,4575
+273,Alameda Fonseca,Porto Calvo,Alagoas,8149
+274,Favela Ana Liz Guerra,Delmiro Gouveia,Alagoas,7679
+275,Residencial Maria Cecília Mendonça,São Miguel dos Campos,Alagoas,7679
+276,Aeroporto Araújo,Santana do Ipanema,Alagoas,4138
+277,Pátio Cunha,Porto Calvo,Alagoas,3619
+278,Rodovia Maria Cecília Duarte,Marechal Deodoro,Alagoas,7486
+279,Estrada Vieira,Santana do Ipanema,Alagoas,3736
+280,Lagoa Matheus Melo,Marechal Deodoro,Alagoas,2653
+281,Favela Barros,Penedo,Alagoas,7814
+282,Jardim de Brito,Santana do Ipanema,Alagoas,2405
+283,Pátio Abreu,São Miguel dos Campos,Alagoas,5221
+284,Morro Isaac Siqueira,União dos Palmares,Alagoas,1919
+285,Condomínio de Sales,Atalaia,Alagoas,3913
+286,Vereda Teixeira,Maceió,Alagoas,9542
+287,Colônia de da Cunha,Penedo,Alagoas,2740
+288,Distrito Rios,Pilar,Alagoas,5045
+289,Quadra Ramos,Porto Calvo,Alagoas,1916
+290,Favela de Nascimento,Arapiraca,Alagoas,6002
+291,Morro Ribeiro,São Miguel dos Campos,Alagoas,9744
+292,Jardim Melo,Rio Largo,Alagoas,4841
+293,Travessa de Oliveira,Porto Calvo,Alagoas,9220
+294,Avenida de Camargo,Atalaia,Alagoas,1386
+295,Vila de Moraes,Palmeira dos Índios,Alagoas,4659
+296,Estação Rodrigues,Arapiraca,Alagoas,280
+297,Jardim de Pires,União dos Palmares,Alagoas,6376
+298,Lagoa de da Conceição,Atalaia,Alagoas,8848
+299,Sítio Campos,Maceió,Alagoas,3585
+300,Vale Vasconcelos,Marechal Deodoro,Alagoas,7325
