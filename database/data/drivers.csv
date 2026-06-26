@@ -1,0 +1,51 @@
+﻿id,codigo motorista,nome,ativo
+1,1,Julia Marques,False
+2,2,Eduardo das Neves,True
+3,3,Eloah das Neves,True
+4,4,Zoe da Rosa,False
+5,5,Ana Carolina Duarte,True
+6,6,Renan Barbosa,False
+7,7,Larissa Silveira,False
+8,8,Manuela Rezende,False
+9,9,Otto Sampaio,True
+10,10,Pedro Miguel Sá,True
+11,11,Alexia Costela,True
+12,12,Eduarda Pinto,True
+13,13,Alexandre Ribeiro,True
+14,14,Ester Rocha,False
+15,15,Davi Luiz Vargas,True
+16,16,Olívia Borges,True
+17,17,Hadassa Pimenta,True
+18,18,Rafaela Porto,True
+19,19,João Santos,True
+20,20,Maria Laura Fernandes,True
+21,21,Rodrigo Pinto,False
+22,22,Sra. Ana Cecília Ramos,False
+23,23,Natália Borges,False
+24,24,Nathan da Cruz,True
+25,25,Fernanda Albuquerque,False
+26,26,Mirella Andrade,False
+27,27,Sr. Mateus Albuquerque,False
+28,28,Nina Sousa,False
+29,29,João Andrade,False
+30,30,Theodoro da Luz,False
+31,31,Yasmin Marques,False
+32,32,Brayan Rodrigues,False
+33,33,Emilly Abreu,False
+34,34,Lucas Gabriel Caldeira,True
+35,35,Ana Luiza Araújo,True
+36,36,Bianca da Mata,False
+37,37,Maria Luísa Cirino,False
+38,38,André Costa,False
+39,39,Marina Ramos,False
+40,40,José Pedro Porto,True
+41,41,Sr. Rafael da Conceição,False
+42,42,Arthur Miguel Moreira,True
+43,43,Anna Liz Sales,False
+44,44,João Gabriel Nunes,True
+45,45,Ana Júlia Gomes,True
+46,46,Pedro Carvalho,True
+47,47,Dr. Arthur Gabriel Silveira,False
+48,48,Antônio Pastor,False
+49,49,Catarina Siqueira,True
+50,50,Lorenzo da Rosa,True

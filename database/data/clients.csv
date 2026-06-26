@@ -1,0 +1,301 @@
+﻿id,nome,cnpj,id_endereço,ativo
+1,Pereira Ltda.,58.671.930/0001-57,1,False
+2,Correia,41.096.728/0001-46,2,False
+3,Ferreira,42.693.015/0001-22,3,True
+4,Jesus,39.046.215/0001-89,4,True
+5,Pimenta Mendonça S/A,81.542.369/0001-28,5,True
+6,Cavalcanti,58.197.043/0001-99,6,False
+7,da Rosa,32.870.546/0001-90,7,False
+8,Pires,49.528.301/0001-81,8,True
+9,Carvalho,78.531.924/0001-01,9,False
+10,Siqueira Ltda.,05.861.237/0001-80,10,False
+11,Duarte S/A,57.236.908/0001-16,11,True
+12,Cassiano,46.879.532/0001-41,12,False
+13,Moraes e Filhos,39.207.846/0001-32,13,False
+14,Silveira,12.760.853/0001-00,14,True
+15,Brito,20.613.574/0001-42,15,True
+16,Andrade,70.324.615/0001-59,16,True
+17,Fogaça - ME,70.865.193/0001-29,17,False
+18,Rezende Campos e Filhos,47.082.613/0001-89,18,False
+19,Fonseca S.A.,42.019.563/0001-71,19,True
+20,Garcia,96.813.720/0001-45,20,True
+21,Cavalcante,31.480.759/0001-42,21,False
+22,Casa Grande Abreu e Filhos,89.341.062/0001-70,22,False
+23,Andrade,71.452.890/0001-10,23,False
+24,da Mota,37.561.284/0001-03,24,False
+25,Pires S/A,18.430.259/0001-38,25,True
+26,Albuquerque,63.072.195/0001-03,26,False
+27,Camargo,64.031.829/0001-34,27,True
+28,Sousa - EI,40.278.915/0001-88,28,False
+29,da Costa Novaes - EI,16.205.749/0001-05,29,False
+30,Pastor da Cunha - EI,03.872.415/0001-43,30,True
+31,Vieira,68.450.217/0001-37,31,True
+32,Fernandes,97.632.081/0001-84,32,False
+33,Almeida Albuquerque S/A,90.475.861/0001-19,33,True
+34,Pimenta,13.057.284/0001-02,34,False
+35,Cunha,47.169.823/0001-09,35,False
+36,Fernandes,03.125.487/0001-27,36,True
+37,Leão - EI,24.910.365/0001-11,37,True
+38,Ramos,72.894.135/0001-59,38,True
+39,Castro,06.215.943/0001-18,39,False
+40,Vasconcelos Ltda.,13.986.425/0001-63,40,False
+41,Sousa Almeida - ME,49.650.823/0001-51,41,False
+42,Fonseca - ME,80.235.971/0001-50,42,True
+43,Ferreira Cavalcanti Ltda.,79.425.831/0001-65,43,False
+44,Cavalcante - ME,92.637.518/0001-59,44,True
+45,Borges,38.579.460/0001-99,45,True
+46,Rocha,80.716.254/0001-40,46,False
+47,Melo,84.976.135/0001-87,47,False
+48,Cirino,35.418.627/0001-41,48,False
+49,Farias Ltda.,68.735.149/0001-52,49,False
+50,das Neves Macedo S/A,13.469.250/0001-17,50,False
+51,Aragão,35.764.291/0001-79,51,False
+52,Aragão S.A.,46.193.750/0001-28,52,False
+53,da Mata,14.520.963/0001-20,53,False
+54,da Paz,54.312.970/0001-51,54,False
+55,Farias,23.807.591/0001-09,55,True
+56,Abreu,98.150.723/0001-71,56,False
+57,Camargo S.A.,32.058.749/0001-86,57,False
+58,Abreu,27.493.860/0001-60,58,True
+59,Duarte - ME,65.370.942/0001-07,59,False
+60,Almeida,73.865.129/0001-36,60,True
+61,Monteiro,09.376.425/0001-74,61,True
+62,Lima Mendes S/A,80.573.914/0001-80,62,True
+63,Porto,65.140.873/0001-45,63,True
+64,Silveira Ltda.,47.356.981/0001-78,64,True
+65,Lopes Vargas - ME,34.560.729/0001-34,65,False
+66,Aparecida,20.578.436/0001-70,66,True
+67,da Costa Fonseca - ME,04.721.856/0001-07,67,True
+68,Abreu Fonseca Ltda.,93.021.785/0001-60,68,False
+69,da Mota Rezende S.A.,96.053.472/0001-81,69,True
+70,da Cunha,52.361.048/0001-29,70,False
+71,da Rocha S.A.,12.798.506/0001-77,71,True
+72,Carvalho Barbosa e Filhos,48.173.609/0001-99,72,True
+73,da Conceição,65.437.209/0001-62,73,True
+74,Correia,31.985.604/0001-68,74,True
+75,Pereira Souza Ltda.,67.809.541/0001-36,75,False
+76,Santos - EI,80.721.596/0001-58,76,False
+77,Duarte Montenegro Ltda.,25.380.697/0001-02,77,True
+78,da Costa,14.276.053/0001-44,78,True
+79,Fogaça Freitas e Filhos,89.063.412/0001-84,79,True
+80,Oliveira Dias S.A.,69.584.120/0001-80,80,False
+81,Farias S/A,93.207.154/0001-30,81,False
+82,Lima,06.351.842/0001-74,82,True
+83,das Neves,35.740.869/0001-57,83,False
+84,Sá,42.160.387/0001-93,84,False
+85,Cunha Pimenta e Filhos,51.792.368/0001-70,85,False
+86,da Conceição,52.398.140/0001-63,86,True
+87,Pimenta,28.105.734/0001-54,87,True
+88,da Luz,54.267.938/0001-00,88,True
+89,Pacheco S/A,03.967.814/0001-98,89,False
+90,Cirino,14.526.790/0001-58,90,False
+91,Vasconcelos,24.870.165/0001-82,91,True
+92,Leão Ltda.,72.609.418/0001-01,92,True
+93,da Paz Alves S/A,58.401.967/0001-65,93,True
+94,Viana,92.473.568/0001-48,94,True
+95,Ferreira S.A.,04.825.136/0001-91,95,False
+96,Nascimento,49.726.153/0001-00,96,True
+97,Ribeiro,97.021.548/0001-50,97,False
+98,Siqueira,21.679.043/0001-15,98,True
+99,Lopes,48.719.523/0001-19,99,False
+100,da Paz,65.478.910/0001-20,100,False
+101,Almeida Nunes S/A,87.614.930/0001-13,101,True
+102,Guerra Borges - EI,65.487.193/0001-00,102,False
+103,Fogaça Ltda.,17.605.293/0001-33,103,False
+104,Pinto,78.514.396/0001-82,104,True
+105,Vargas Campos e Filhos,64.809.213/0001-41,105,True
+106,da Luz,80.917.452/0001-71,106,False
+107,Novaes,28.613.509/0001-29,107,False
+108,Viana,93.057.612/0001-00,108,False
+109,das Neves,75.248.069/0001-38,109,True
+110,Gomes e Filhos,37.281.950/0001-41,110,False
+111,Sampaio,68.032.147/0001-05,111,True
+112,Aparecida e Filhos,58.296.743/0001-30,112,False
+113,Freitas,81.354.690/0001-89,113,True
+114,Gonçalves,68.094.152/0001-34,114,False
+115,Marques,64.508.213/0001-01,115,True
+116,Barros S/A,41.980.325/0001-65,116,False
+117,Borges,73.625.109/0001-98,117,False
+118,Azevedo - EI,09.823.416/0001-84,118,True
+119,Guerra S.A.,57.026.894/0001-06,119,False
+120,Cardoso,47.065.931/0001-31,120,True
+121,Cavalcanti Nogueira e Filhos,07.236.951/0001-03,121,True
+122,Castro,70.925.364/0001-68,122,True
+123,Sales,17.940.325/0001-57,123,False
+124,Mendes - EI,76.238.510/0001-63,124,True
+125,Sá,49.032.175/0001-70,125,True
+126,Siqueira Jesus Ltda.,91.843.650/0001-54,126,False
+127,Marques Leão - EI,61.879.245/0001-25,127,False
+128,Ramos e Filhos,78.125.693/0001-36,128,False
+129,da Cunha S.A.,90.183.645/0001-08,129,False
+130,Cassiano,24.590.387/0001-41,130,False
+131,Nunes Guerra - EI,52.768.314/0001-32,131,True
+132,da Conceição,89.140.253/0001-74,132,True
+133,Andrade S/A,54.897.601/0001-78,133,True
+134,Moraes Gomes Ltda.,43.976.502/0001-65,134,False
+135,Macedo S/A,93.750.182/0001-07,135,True
+136,Freitas,12.304.579/0001-65,136,False
+137,Viana,54.312.608/0001-80,137,False
+138,Cassiano - EI,87.963.541/0001-01,138,True
+139,da Costa S.A.,06.584.371/0001-44,139,False
+140,Fogaça,83.720.165/0001-65,140,True
+141,Cirino Cassiano S.A.,73.952.084/0001-37,141,True
+142,Ribeiro,49.173.685/0001-67,142,True
+143,da Rosa,98.702.365/0001-62,143,False
+144,Lopes S/A,04.198.537/0001-69,144,True
+145,Cassiano,17.638.025/0001-18,145,True
+146,Aparecida,47.913.028/0001-83,146,False
+147,Novaes Cavalcanti Ltda.,72.904.536/0001-42,147,False
+148,Carvalho Carvalho S.A.,13.586.924/0001-63,148,True
+149,Silva Fogaça S/A,09.258.314/0001-63,149,True
+150,Moraes - EI,16.073.498/0001-52,150,True
+151,Campos,49.805.163/0001-30,151,False
+152,Campos Silveira - ME,74.631.509/0001-79,152,False
+153,Jesus,59.782.031/0001-94,153,False
+154,Cirino,13.807.459/0001-43,154,True
+155,Duarte,75.284.109/0001-05,155,True
+156,Oliveira,54.017.823/0001-59,156,False
+157,Vieira,71.682.493/0001-35,157,True
+158,Barbosa Viana Ltda.,03.678.159/0001-58,158,True
+159,da Rosa - ME,39.816.245/0001-27,159,True
+160,Garcia,76.243.195/0001-62,160,False
+161,Pastor e Filhos,23.846.179/0001-06,161,True
+162,Rocha,23.495.876/0001-51,162,False
+163,Pinto - ME,90.615.274/0001-88,163,False
+164,Ribeiro,72.315.496/0001-01,164,True
+165,Costa,14.780.926/0001-51,165,True
+166,Costa Mendes S.A.,02.837.945/0001-98,166,False
+167,Almeida Andrade e Filhos,90.713.258/0001-28,167,False
+168,Gonçalves Correia S.A.,43.502.678/0001-85,168,True
+169,Freitas,56.319.807/0001-46,169,False
+170,Ramos Aparecida Ltda.,31.246.807/0001-32,170,False
+171,Azevedo,50.491.382/0001-71,171,False
+172,Silva Peixoto - EI,56.243.917/0001-71,172,True
+173,Cunha,58.971.062/0001-20,173,True
+174,Moura Pimenta e Filhos,90.426.185/0001-93,174,True
+175,Fogaça,51.846.790/0001-61,175,True
+176,Castro Siqueira S/A,70.951.436/0001-41,176,True
+177,Castro,08.379.465/0001-07,177,False
+178,Guerra,27.496.038/0001-53,178,True
+179,da Mota Silveira S/A,92.817.046/0001-16,179,True
+180,Pastor,13.860.597/0001-96,180,True
+181,Silveira,24.613.057/0001-24,181,True
+182,Jesus Guerra S/A,01.296.348/0001-30,182,True
+183,Rocha - EI,04.756.213/0001-07,183,True
+184,Pastor S/A,25.796.843/0001-77,184,False
+185,Cunha Barbosa S.A.,38.947.162/0001-04,185,False
+186,Nunes,85.123.706/0001-01,186,True
+187,Silveira,12.405.983/0001-25,187,True
+188,Pires Ltda.,37.695.842/0001-15,188,False
+189,Sampaio e Filhos,30.742.958/0001-19,189,True
+190,Alves - ME,15.376.209/0001-21,190,True
+191,Lopes Rezende S/A,13.754.962/0001-88,191,True
+192,Camargo,60.723.145/0001-42,192,False
+193,Brito,02.518.974/0001-97,193,True
+194,Melo,16.045.287/0001-06,194,False
+195,Jesus,68.259.370/0001-81,195,False
+196,Ferreira Vieira - EI,30.214.965/0001-48,196,False
+197,Abreu Farias S/A,08.694.573/0001-74,197,True
+198,Moura,41.627.980/0001-34,198,False
+199,Pires - ME,71.465.932/0001-58,199,True
+200,Pires,26.415.307/0001-47,200,False
+201,Vargas,93.182.750/0001-02,201,False
+202,da Mota,24.307.681/0001-01,202,True
+203,Sampaio da Cruz S/A,04.931.675/0001-05,203,True
+204,da Cruz,61.387.290/0001-62,204,True
+205,Gomes - ME,65.372.104/0001-72,205,True
+206,Macedo,62.970.438/0001-50,206,False
+207,Carvalho,54.369.702/0001-76,207,True
+208,Andrade,03.819.567/0001-82,208,True
+209,Ribeiro,24.657.831/0001-07,209,False
+210,Lopes,80.513.427/0001-22,210,False
+211,da Rocha - ME,26.013.798/0001-08,211,True
+212,Ferreira S/A,31.872.496/0001-17,212,False
+213,das Neves Campos S.A.,34.875.102/0001-72,213,False
+214,Pires,54.736.180/0001-01,214,True
+215,Duarte,28.079.654/0001-71,215,False
+216,Andrade,95.068.432/0001-40,216,False
+217,Ribeiro,24.059.836/0001-20,217,True
+218,da Rocha,52.768.941/0001-73,218,False
+219,Sá,01.546.328/0001-70,219,True
+220,Cirino,12.375.069/0001-89,220,False
+221,Casa Grande Jesus S.A.,10.935.762/0001-33,221,True
+222,Nascimento Sampaio S.A.,71.634.529/0001-05,222,True
+223,Pereira,70.698.423/0001-02,223,False
+224,Machado,03.912.846/0001-96,224,True
+225,da Costa S.A.,16.902.548/0001-67,225,True
+226,Oliveira da Mota S/A,84.905.176/0001-82,226,True
+227,Rocha da Costa - EI,80.942.635/0001-47,227,False
+228,Sá Caldeira - ME,09.324.517/0001-00,228,False
+229,Araújo Cavalcanti S.A.,31.672.805/0001-05,229,False
+230,Casa Grande,24.096.715/0001-58,230,True
+231,Caldeira - ME,01.975.826/0001-39,231,False
+232,da Rocha da Cunha S/A,28.519.463/0001-83,232,False
+233,Campos,59.410.267/0001-08,233,True
+234,Castro - ME,73.684.519/0001-00,234,True
+235,Garcia,43.576.201/0001-44,235,True
+236,Vasconcelos Moreira Ltda.,30.146.895/0001-38,236,False
+237,Araújo,49.865.137/0001-06,237,False
+238,Câmara,92.347.680/0001-32,238,False
+239,da Cruz Freitas e Filhos,39.520.641/0001-02,239,False
+240,Ramos - ME,54.278.910/0001-60,240,False
+241,Casa Grande,59.218.640/0001-15,241,True
+242,Câmara,26.371.490/0001-26,242,True
+243,Farias Freitas - ME,32.506.481/0001-06,243,True
+244,Ferreira,64.871.309/0001-30,244,True
+245,Ramos Melo - EI,87.354.610/0001-71,245,True
+246,Sá Cardoso - ME,78.235.149/0001-47,246,True
+247,Cavalcanti,41.936.857/0001-03,247,True
+248,Martins S.A.,23.401.679/0001-26,248,False
+249,Gonçalves,89.315.047/0001-58,249,False
+250,Moura,07.142.698/0001-29,250,False
+251,Alves Alves - EI,09.456.371/0001-57,251,True
+252,Sá - ME,06.927.435/0001-62,252,True
+253,Melo,46.083.791/0001-61,253,True
+254,Farias Silva - EI,56.492.107/0001-59,254,False
+255,Melo,39.785.012/0001-04,255,True
+256,Vargas,68.710.235/0001-00,256,False
+257,Rezende S/A,70.681.354/0001-24,257,True
+258,Nascimento,16.029.745/0001-13,258,False
+259,Azevedo - EI,54.936.207/0001-00,259,True
+260,das Neves,28.571.496/0001-72,260,True
+261,Vasconcelos,51.230.789/0001-08,261,False
+262,Almeida,41.360.728/0001-01,262,False
+263,Pinto Casa Grande - EI,72.653.104/0001-06,263,False
+264,Pimenta Barros e Filhos,01.745.968/0001-00,264,True
+265,Campos Ferreira - ME,49.103.267/0001-01,265,True
+266,Pereira,42.739.105/0001-07,266,True
+267,Brito,15.469.308/0001-58,267,True
+268,Siqueira Ltda.,74.531.098/0001-40,268,True
+269,Ribeiro Marques e Filhos,40.238.691/0001-80,269,True
+270,da Conceição,36.810.492/0001-28,270,True
+271,Oliveira Sousa S.A.,70.453.629/0001-72,271,False
+272,Casa Grande S/A,43.527.160/0001-04,272,True
+273,Mendonça,24.753.096/0001-27,273,False
+274,Siqueira,62.417.805/0001-92,274,True
+275,Souza,30.196.458/0001-29,275,True
+276,Silveira e Filhos,10.624.985/0001-80,276,True
+277,Carvalho,26.109.347/0001-60,277,False
+278,Campos Ltda.,98.563.201/0001-00,278,True
+279,da Rocha,73.512.980/0001-85,279,False
+280,da Rosa S.A.,86.410.295/0001-90,280,True
+281,Marques,61.749.350/0001-40,281,True
+282,Souza Novaes Ltda.,48.579.132/0001-46,282,True
+283,Abreu Peixoto Ltda.,38.946.571/0001-96,283,False
+284,Carvalho,56.098.734/0001-00,284,False
+285,da Conceição,85.463.709/0001-86,285,False
+286,Almeida,42.380.617/0001-20,286,False
+287,Costela,13.960.482/0001-73,287,False
+288,Lopes da Paz - EI,51.832.967/0001-70,288,True
+289,Sales e Filhos,40.296.375/0001-65,289,False
+290,da Paz,39.521.078/0001-97,290,False
+291,Almeida,56.284.091/0001-99,291,False
+292,Camargo Ltda.,84.529.017/0001-20,292,True
+293,Camargo Pimenta e Filhos,52.710.463/0001-40,293,True
+294,Alves Oliveira S.A.,87.241.536/0001-87,294,False
+295,Garcia,06.235.184/0001-55,295,False
+296,Ribeiro,69.852.170/0001-09,296,False
+297,Sampaio Freitas S.A.,41.576.293/0001-37,297,False
+298,Fernandes e Filhos,39.567.401/0001-63,298,False
+299,Gonçalves,60.192.738/0001-20,299,False
+300,Gonçalves Vasconcelos Ltda.,35.492.801/0001-04,300,True
